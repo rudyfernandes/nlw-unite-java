@@ -45,6 +45,10 @@ Project developed during the Next Level Week Unite event. <br/>
  - Spring Boot Dev Tools para agilizar o processo de desenvolvimento.
 
 
+## 📧 Contato
+
+rudyfernandez2002@gmail.com
+
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
